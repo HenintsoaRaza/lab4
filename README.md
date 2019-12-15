@@ -1,5 +1,7 @@
 ![GitHub Logo](/images/logoece.jpg)
 ## ECE-NodeJS-Project Lab 3 
+[![Coverage Status](https://coveralls.io/repos/github/HenintsoaRaza/lab4/badge.svg?branch=master)](https://coveralls.io/github/HenintsoaRaza/lab4?branch=master)
+
 Lab 3 allows to:
   * add metrics
   * get one metric by key
